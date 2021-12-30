@@ -1,0 +1,7 @@
+server:
+    port: 41414
+spring:
+    web:
+        resources:
+            static-locations:
+                - file:src/main/resources/static
